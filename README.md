@@ -16,6 +16,7 @@ A curated list of the most powerful, creative, and personalized AI tools to gene
 | **Lensa** | https://www.lensa-ai.com         | Mobile-friendly AI avatar app with artistic results. |
 | **Picsart AI Avatar** | https://picsart.com/avatar | Avatar generation for fun or profile use with easy upload. |
 | **Photomia** | [photomia.app](https://www.photomia.app) | 🚀 Train your own AI model using your selfies and generate high-quality portraits tailored to your style. Fast LoRA training, privacy-first. |
+| **PetPicto** | https://petpicto.com/ | Online AI portrait studio that turns photos of you and your pet into a "one pet plus us" portrait. |
 
 ---
 
